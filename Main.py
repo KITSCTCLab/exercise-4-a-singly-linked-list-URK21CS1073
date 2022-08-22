@@ -21,7 +21,7 @@ class LinkedList:
     Provide necessary documentation
     """
 
-    def _init_(self):
+    def __init__(self):
         """
         Initialize the head
         """
